@@ -1,0 +1,3 @@
+<launch>
+    <node name="air_sensor_pub" pkg="air_sensor" type="sensor_pub.py" />
+</launch>
